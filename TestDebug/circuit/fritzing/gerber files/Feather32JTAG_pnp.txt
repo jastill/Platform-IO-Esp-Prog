@@ -1,0 +1,21 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Feather32JTAG
+*Date=12:44:10
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;30.4589;-24.1403;0;Bottom;Feather 32
+2;;THT;32.7394;-44.4603;90;Bottom;J3
+3;;;58.1957;-43.3875;0;Bottom;TXT1
+4;;;58.5586;-46.7354;0;Bottom;TXT2
+5;;THT;27.6594;-3.82031;90;Bottom;J4
+6;;THT;70.7124;-24.1403;180;Bottom;JTAG
