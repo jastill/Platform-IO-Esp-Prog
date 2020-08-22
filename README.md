@@ -5,6 +5,8 @@ Platform IO setup for Catalina Mac Pro setup
 
 Board: [Adafruit Feather 32](https://www.adafruit.com/product/3405)
 
+ESP [Prog Board](https://github.com/espressif/esp-iot-solution/blob/master/documents/evaluation_boards/ESP-Prog_guide_en.md)
+
 
 ## Misc
 
