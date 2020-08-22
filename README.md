@@ -3,7 +3,8 @@ Platform IO setup for Catalina Mac Pro setup
 
 ## Board
 
-Board: Adafruit Feather 32
+Board: [Adafruit Feather 32](https://www.adafruit.com/product/3405)
+
 
 ## Misc
 
