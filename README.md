@@ -1,5 +1,7 @@
 # PlatformIOEspProgCatalina
-Platform IO setup for Catalina Mac Pro setup
+Platform IO ESP32 Debug Breakout Board
+
+![circuit](images/CircuitScreenshot.png)
 
 ## Board
 
@@ -23,5 +25,6 @@ sudo kextunload /Library/Extensions/FTDIUSBSerialDriver.kext
 https://docs.platformio.org/en/latest/plus/debug-tools/esp-prog.html
 
 https://community.platformio.org/t/esp-prog-debugging-on-a-mac-no-device-found/14658 
+
 
 
