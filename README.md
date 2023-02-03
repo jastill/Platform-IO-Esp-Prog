@@ -1,7 +1,11 @@
-# PlatformIOEspProgCatalina
-Platform IO ESP32 Debug Breakout Board
+# PlatformIO ESP32 Debugging
+
+##Platform IO ESP32 Debug Breakout Board
 
 ![circuit](Images/CircuitScreenshot.png)
+
+
+## PCB from [Osh Park](https://oshpark.com)
 
 ![Top](Images/BoardTop.png)
 ![Bottom](Images/BoardBottom.png)
