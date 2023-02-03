@@ -3,6 +3,9 @@ Platform IO ESP32 Debug Breakout Board
 
 ![circuit](Images/CircuitScreenshot.png)
 
+![Top](Images/BoardTop.png)
+![Bottom](Images/BoardBottom.png)
+
 ## Board
 
 Board: [Adafruit Feather 32](https://www.adafruit.com/product/3405)
