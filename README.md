@@ -1,7 +1,7 @@
 # PlatformIOEspProgCatalina
 Platform IO ESP32 Debug Breakout Board
 
-![circuit](images/CircuitScreenshot.png)
+![circuit](Images/CircuitScreenshot.png)
 
 ## Board
 
